@@ -49,12 +49,3 @@ pnpm run build
 pnpm run start
 ```
 
-## Project Group Members
-- Arjun Kadam
-- Simran Pathan
-- Vaibhav Pandarkar
-- Vaishnavi Raykar
-
-## Mentor 
-- Prof. Swati Bhosale
-
